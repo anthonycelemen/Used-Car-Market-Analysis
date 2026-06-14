@@ -57,12 +57,12 @@ Raw CSV → Python/Pandas (clean) → Clean CSV → MySQL (query) → Power BI (
   
 ---
 
-## 📊 Dashboard Preview
+## Dashboard Preview
 <img width="1223" height="687" alt="Screenshot 2026-06-14 173350" src="https://github.com/user-attachments/assets/3da9f256-b150-41b5-adbd-fa43a8ffd9b2" />
 
 ---
 
-## 💡 Key Insights
+## Key Insights
 
 1. **Average resale price varies widely by brand.** Jaguar leads with the highest average resale price at ₹2.50M, while Fiat sits at the lowest with ₹121.50K, reflecting the stark gap between luxury and budget segments in the used car market.
 
@@ -76,7 +76,7 @@ Raw CSV → Python/Pandas (clean) → Clean CSV → MySQL (query) → Power BI (
 
 ---
 
-## ✅ Recommendations
+## Recommendations
 
 - **For buyers on a budget:** Maruti and Hyundai offer the most options in the market, giving buyers more negotiating power due to high supply volume.
 - **For buyers prioritizing value retention:** Avoid cars older than 15 years. The data shows a sharp depreciation drop beyond that point with little price recovery.
